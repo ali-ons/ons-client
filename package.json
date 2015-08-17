@@ -1,4 +1,7 @@
 {
   "name": "ons-client",
-  "description": "Nodejs client for ONS service of Alibaba"
+  "description": "Nodejs client for ONS service of Alibaba",
+  "dependencies": {
+    "core-util-is": "~1.0.1"
+  }
 }
