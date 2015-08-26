@@ -2,6 +2,10 @@
   "name": "ons-client",
   "description": "Nodejs client for ONS service of Alibaba",
   "dependencies": {
-    "core-util-is": "~1.0.1"
+    "core-util-is": "~1.0.1",
+    "debug": "^2.2.0",
+    "nproperties": "0.0.1",
+    "nsystem": "0.0.1",
+    "string-extras": "0.0.1"
   }
 }
